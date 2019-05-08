@@ -1,0 +1,8 @@
+void main {
+   int a = 0x9;
+   int b = 6;
+   int a = 3/5;
+   int a = b++;
+   a = a + b; 
+   return 0;
+}

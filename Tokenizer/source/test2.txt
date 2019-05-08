@@ -1,0 +1,11 @@
+void main {
+   int a = 0xg;
+   int2 b = 6;
+   int a = 3/5;
+   int a = b++;
+   c != 5;
+   d = c && 2;
+   s = "123456;
+   a = a + b; 
+   return 0;
+}
